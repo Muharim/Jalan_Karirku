@@ -4,7 +4,7 @@ import Button from './components/btn'
 import Footer from './components/footer'
 import Accordion from './components/accordion'
 import Navbar from './components/navbar'
-import TestimonialCarousel from './components/testimonialCarousel'
+import TestimonialCarousel from '.components/testimonialCarousel'
 export default function Home() {
 
   const FAQ = [
